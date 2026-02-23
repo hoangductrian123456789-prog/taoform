@@ -17,12 +17,6 @@
     color: darkred;
 }
 
-/* Ô nhập màu vàng */
-input.yellow {
-    background-color: yellow;
-    width: 200px;
-}
-
 /* Nút góp ý màu xanh */
 input.blue {
     background-color: steelblue;
@@ -30,4 +24,5 @@ input.blue {
     border: none;
     padding: 6px 12px;
     cursor: pointer;
+
 }
