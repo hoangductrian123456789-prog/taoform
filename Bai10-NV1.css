@@ -1,0 +1,33 @@
+/* Tiêu đề chính */
+.orangered {
+    font-family: Verdana;
+    font-size: 25px;
+    color: red;
+    font-weight: bold;
+}
+
+/* Tiêu đề mục */
+.blue {
+    color: steelblue;
+    font-weight: bold; 
+}
+
+/* Nhãn chữ */
+.red {
+    color: darkred;
+}
+
+/* Ô nhập màu vàng */
+input.yellow {
+    background-color: yellow;
+    width: 200px;
+}
+
+/* Nút góp ý màu xanh */
+input.blue {
+    background-color: steelblue;
+    color: white;
+    border: none;
+    padding: 6px 12px;
+    cursor: pointer;
+}
